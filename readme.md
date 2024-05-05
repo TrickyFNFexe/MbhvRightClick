@@ -5,7 +5,7 @@ Mbhv right click plugin, is used for creating custom GUIS (through this source c
 
 ## Downloads
 
-1. go to the releases tab on the right, or visit the [spigotmc](https://www.spigotmc.org/resources/mbhv-ip-protect.116095/) page.
+1. go to the releases tab on the right, or visit the [spigotmc](https://www.spigotmc.org/resources/mbhv-right-click.116654/) page.
 2. download the latest version. [THIS PLUGIN WILL NOT RECIEVE ANY SUPPORT, IT WILL STILL BE UPDATED].
 
 ### Features
