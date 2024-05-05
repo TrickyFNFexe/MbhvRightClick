@@ -22,11 +22,11 @@ Mbhv right click plugin, is used for creating custom GUIS (through this source c
 ## ScreenShots:
 
 ![GUI](https://www.spigotmc.org/attachments/2024-05-05_18-22-36-png.828443/)
-![Vulcan](https://www.spigotmc.org/attachments/screenshot-2024-05-05-182142-png.828438/)
-![kick](https://www.spigotmc.org/attachments/screenshot-2024-05-05-182152-png.828439/)
-![ban](https://www.spigotmc.org/attachments/screenshot-2024-05-05-182202-png.828440/)
-![freeze](https://www.spigotmc.org/attachments/screenshot-2024-05-05-182213-png.828441/)
-![ipban](https://www.spigotmc.org/attachments/screenshot-2024-05-05-182222-png.828442/)
+![Vulcan](https://raw.githubusercontent.com/TrickyFNFexe/MbhvRightClick/main/github/vulcan.png)
+![kick](https://raw.githubusercontent.com/TrickyFNFexe/MbhvRightClick/main/github/kick.png)
+![ban](https://raw.githubusercontent.com/TrickyFNFexe/MbhvRightClick/main/github/ban.png)
+![freeze](https://raw.githubusercontent.com/TrickyFNFexe/MbhvRightClick/main/github/freeze.png)
+![ipban](https://raw.githubusercontent.com/TrickyFNFexe/MbhvRightClick/main/github/tempban.png)
 
 ## Version History
 
